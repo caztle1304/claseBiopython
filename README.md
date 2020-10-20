@@ -1,39 +1,39 @@
 # claseBiopython
 
-## Descripción
-Repositorio de la clase de BIOPYTHON para datos, tareas, practicas y scripts
+## Description
+Repository specially designated to be used during all semester in Biopython class
 
-## Estructura
-├──build      # Archivos compilados
+## Structure
+├──build      # Compiled files
 # 
-├── docs     # Archivos de documentación (txt, md)
+├── docs     # Documentation files (txt, md)
 #
-├── lib         # Librerías y dependencias 
+├── lib         # Libraries and dependances 
 #
-├── src        # Programas Python (notebooks) 
+├── src        # Python scripts (notebooks) 
 #
-├── test       # Archivos para pruebas 
+├── test       # Test files
 ###
-├── README.md        # Archivo de descripción del software 
+├── README.md        # Software description file 
 ####
-├── LICENSE.md        # Licencia de uso 
+├── LICENSE.md        # License 
 ####
-└── .gitignore            # Archivo para especificar los archivos que git debe excluir \n
+└── .gitignore            # Files to be ignored by git \n
 
-## Motivación
-Tener un lugar dónde concentrar todos los recursos necesarios que se utilizarán a lo largo del semestre en lca clase de biopython
+## Motivation
+Having a place where to save all files, scripts, etc. that will be used during the semester in biopython class
 
-## Requerimientos del sistema
-En caso de que un script tenga requerimientos especiales se indicará en la documentación
+## System requirements
+If any script has special requirements, all indications will be in that script's documentation
 
-## Instalación
-En los scripts que se añadirán al repositorio, se indicarán los pasos en caso de necesitar una instalación
+## Install
+In case of spetial installation, steps will be described in script's documentation
 
-## Inicio rápido
-Scripts de introducción a biopython
+## Quick start
+Introductory scripts for biopython
 
-## Licencia
-Licencia otirgada por MIT, se encuentra en el archivo LICENCE.md
+## License
+MIT License
 
-## Contacto para información de soporte
+## Support contact information
 angeldc@lcg.unam.mx
