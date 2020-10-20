@@ -1,6 +1,6 @@
 # claseBiopython
 
-## ## Descripción
+## Descripción
 Repositorio de la clase de BIOPYTHON para datos, tareas, practicas y scripts
 
 ## Estructura
