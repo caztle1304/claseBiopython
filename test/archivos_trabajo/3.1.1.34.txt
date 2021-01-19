@@ -1,0 +1,20 @@
+ID   3.1.1.34
+DE   Lipoprotein lipase.
+AN   Clearing factor lipase.
+AN   Diacylglycerol lipase.
+AN   Diglyceride lipase.
+CA   Triacylglycerol + H(2)O = diacylglycerol + a carboxylate.
+CC   -!- Hydrolyzes triacylglycerols and diacylglycerol in chylomicrons and
+CC       low-density lipoprotein particles (VLDL).
+CC   -!- Human protein purified from post-heparin plasma (LPL) shows no
+CC       activity against triglyceride in the absence of added lipoprotein.
+CC   -!- The principal reaction sequence of that enzyme is triglyceride ->
+CC       1,2-diglyceride -> 2-monoglyceride.
+CC   -!- The hepatic enzyme (LIPC) also hydrolyzes triglycerides and
+CC       phospholipids present in circulating plasma lipoproteins.
+PR   PROSITE; PDOC00110;
+DR   P11151, LIPL_BOVIN ;  P11153, LIPL_CAVPO ;  P11602, LIPL_CHICK ;
+DR   P55031, LIPL_FELCA ;  P06858, LIPL_HUMAN ;  P11152, LIPL_MOUSE ;
+DR   O46647, LIPL_NEOVI ;  P49060, LIPL_PAPAN ;  P49923, LIPL_PIG   ;
+DR   Q06000, LIPL_RAT   ;  Q29524, LIPL_SHEEP ;
+//
